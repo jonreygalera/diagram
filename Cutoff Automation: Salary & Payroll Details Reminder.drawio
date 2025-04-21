@@ -1,275 +1,278 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Page-1" id="Em6BvC492MvVYmxUUfeI">
-    <mxGraphModel dx="2867" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1643" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-1" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-170" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="50" as="sourcePoint" />
-            <mxPoint x="190" y="50" as="targetPoint" />
+            <mxPoint x="100" y="70" as="sourcePoint" />
+            <mxPoint x="210" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-4" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-171" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="216.26" y="70" as="sourcePoint" />
-            <mxPoint x="216" y="150" as="targetPoint" />
+            <mxPoint x="236.26" y="90" as="sourcePoint" />
+            <mxPoint x="236" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="1">
-          <mxGeometry x="440" y="546" width="63.76" height="60" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-172" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="1">
+          <mxGeometry x="460" y="566" width="63.76" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;" vertex="1" parent="1">
-          <mxGeometry x="40" y="36" width="27" height="30" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-173" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;" vertex="1" parent="1">
+          <mxGeometry x="60" y="56" width="27" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="200.00000000000003" y="24" width="50" height="42" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-174" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="220.00000000000003" y="44" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="380" y="16" width="80" height="50" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-175" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="400" y="36" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-10" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="38.16" height="45.49" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-176" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="38.16" height="45.49" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-11" value="&lt;font&gt;Queue: Automation Settings&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Queue.svg;" vertex="1" parent="1">
-          <mxGeometry x="193" y="550" width="64" height="52" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-177" value="&lt;font&gt;Queue: Automation Settings&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Queue.svg;" vertex="1" parent="1">
+          <mxGeometry x="213" y="570" width="64" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-17" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Storage: Automation Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="70" width="146" height="30" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-178" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Storage: Automation Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="146" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-18" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-179" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="50" as="sourcePoint" />
-            <mxPoint x="190" y="50" as="targetPoint" />
+            <mxPoint x="100" y="70" as="sourcePoint" />
+            <mxPoint x="210" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-22" value="(Queue: Processing)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="1">
-          <mxGeometry x="440" y="546" width="63.76" height="60" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-180" value="(Queue: Processing)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="1">
+          <mxGeometry x="460" y="566" width="63.76" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="880" width="180" height="60" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-181" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="900" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="412" y="888" width="38" height="40" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-182" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="432" y="908" width="38" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="520" y="890" width="38" height="40" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-183" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="540" y="910" width="38" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="466" y="890" width="38" height="40" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-184" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="486" y="910" width="38" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-28" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-185" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="478.62000000000006" y="636" as="sourcePoint" />
-            <mxPoint x="478.16" y="720" as="targetPoint" />
+            <mxPoint x="498.62000000000006" y="656" as="sourcePoint" />
+            <mxPoint x="498.16" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-29" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;(Recipient Manager)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="435" y="948" width="110" height="30" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-186" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;(Recipient Manager)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="968" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-30" value="(Scheduler)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;" vertex="1" parent="1">
-          <mxGeometry x="40" y="36" width="27" height="30" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-187" value="(Scheduler)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;" vertex="1" parent="1">
+          <mxGeometry x="60" y="56" width="27" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-31" value="(Cache: Automation Data)" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="200.00000000000003" y="24" width="50" height="42" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-188" value="(Cache: Automation Data)" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="220.00000000000003" y="44" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-35" value="&lt;font&gt;Queue: Automation Settings&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Queue.svg;" vertex="1" parent="1">
-          <mxGeometry x="193" y="550" width="64" height="52" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-189" value="&lt;font&gt;Queue: Automation Settings&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Queue.svg;" vertex="1" parent="1">
+          <mxGeometry x="213" y="570" width="64" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-36" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-190" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="218.80999999999997" y="220" as="sourcePoint" />
-            <mxPoint x="218.79" y="280" as="targetPoint" />
+            <mxPoint x="238.80999999999997" y="240" as="sourcePoint" />
+            <mxPoint x="238.79" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-37" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-191" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="420" as="sourcePoint" />
-            <mxPoint x="220" y="520" as="targetPoint" />
+            <mxPoint x="240" y="440" as="sourcePoint" />
+            <mxPoint x="240" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-38" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-192" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="790" as="sourcePoint" />
-            <mxPoint x="480" y="860" as="targetPoint" />
+            <mxPoint x="500" y="810" as="sourcePoint" />
+            <mxPoint x="500" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-39" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-193" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="910" as="sourcePoint" />
-            <mxPoint x="680" y="910" as="targetPoint" />
+            <mxPoint x="620" y="930" as="sourcePoint" />
+            <mxPoint x="700" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-40" value="&lt;font&gt;Queue: Recipient&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Queue.svg;" vertex="1" parent="1">
-          <mxGeometry x="700" y="884" width="64" height="52" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-194" value="&lt;font&gt;Queue: Recipient&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Queue.svg;" vertex="1" parent="1">
+          <mxGeometry x="720" y="904" width="64" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-45" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-195" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="861.49" as="sourcePoint" />
-            <mxPoint x="920" y="800" as="targetPoint" />
+            <mxPoint x="940" y="881.49" as="sourcePoint" />
+            <mxPoint x="940" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-46" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.locked;" vertex="1" parent="1">
-          <mxGeometry x="290" y="737.75" width="24" height="30" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-196" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.locked;" vertex="1" parent="1">
+          <mxGeometry x="310" y="757.75" width="24" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-47" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-197" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="446" y="760" as="sourcePoint" />
-            <mxPoint x="330" y="760" as="targetPoint" />
+            <mxPoint x="466" y="780" as="sourcePoint" />
+            <mxPoint x="350" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-48" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="880" y="556" width="80" height="50" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-198" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="900" y="576" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-57" value="(Send notification)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.email;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="695.49" width="78" height="69" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-199" value="(Send notification)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.email;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="715.49" width="78" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-58" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-200" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="970" y="730" as="sourcePoint" />
-            <mxPoint x="1090" y="730" as="targetPoint" />
+            <mxPoint x="990" y="750" as="sourcePoint" />
+            <mxPoint x="1110" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-59" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Lock or Close Attendance&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="741.49" width="147" height="30" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-201" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Lock or Close Attendance&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="761.49" width="147" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-60" value="&lt;font&gt;Queue: Notification&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Queue.svg;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="703.99" width="64" height="52" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-202" value="&lt;font&gt;Queue: Notification&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Queue.svg;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="723.99" width="64" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-64" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-203" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1710" y="732.1599999999999" as="sourcePoint" />
-            <mxPoint x="1830" y="732.1599999999999" as="targetPoint" />
+            <mxPoint x="1730" y="752.1599999999999" as="sourcePoint" />
+            <mxPoint x="1850" y="752.1599999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-65" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;(Storage: Messages)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="566" width="110" height="30" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-204" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;(Storage: Messages)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="586" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-67" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-205" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="40" as="sourcePoint" />
-            <mxPoint x="380" y="40" as="targetPoint" />
+            <mxPoint x="290" y="60" as="sourcePoint" />
+            <mxPoint x="400" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="290" width="237" height="80" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-206" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="310" width="237" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-69" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/automation_tools.svg;" vertex="1" parent="1">
-          <mxGeometry x="122" y="300" width="60" height="60" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-207" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/automation_tools.svg;" vertex="1" parent="1">
+          <mxGeometry x="142" y="320" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-70" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/automation_tools.svg;" vertex="1" parent="1">
-          <mxGeometry x="193.5" y="300" width="60" height="60" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-208" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/automation_tools.svg;" vertex="1" parent="1">
+          <mxGeometry x="213.5" y="320" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-71" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/automation_tools.svg;" vertex="1" parent="1">
-          <mxGeometry x="266" y="300" width="60" height="60" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-209" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/automation_tools.svg;" vertex="1" parent="1">
+          <mxGeometry x="286" y="320" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-72" value="(Automation Manger)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="380" width="155" height="30" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-210" value="(Automation Manger)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="400" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-73" value="(Process: Pending automation)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="238.16" y="167.74" width="211.84" height="30" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-211" value="(Process: Pending automation)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="258.15999999999997" y="187.74" width="211.84" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-74" value="(Cache: Automation Settings)" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="-39.99999999999997" y="550" width="50" height="42" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-212" value="(Cache: Automation Settings)" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="-19.99999999999997" y="570" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-75" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-213" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="575.5" as="sourcePoint" />
-            <mxPoint x="160" y="575.5" as="targetPoint" />
+            <mxPoint x="70" y="595.5" as="sourcePoint" />
+            <mxPoint x="180" y="595.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-76" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-214" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="289.08" y="575.66" as="sourcePoint" />
-            <mxPoint x="399.08" y="575.66" as="targetPoint" />
+            <mxPoint x="309.08" y="595.66" as="sourcePoint" />
+            <mxPoint x="419.08" y="595.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-77" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-215" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="575.5799999999999" as="sourcePoint" />
-            <mxPoint x="650" y="577" as="targetPoint" />
+            <mxPoint x="550" y="595.5799999999999" as="sourcePoint" />
+            <mxPoint x="670" y="597" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-78" value="(Worker)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.worker;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="560.25" width="30" height="31.5" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-216" value="(Worker)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.worker;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="580.25" width="30" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-79" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
-          <mxGeometry x="456" y="730" width="38.16" height="45.49" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-217" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
+          <mxGeometry x="476" y="750" width="38.16" height="45.49" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-80" value="(Process: Pending automation)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="478.15999999999997" y="741.49" width="211.84" height="30" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-218" value="(Process: Pending automation)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="498.15999999999997" y="761.49" width="211.84" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-82" value="(Cache: Recipient details)" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="466" y="1080" width="50" height="42" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-219" value="(Cache: Recipient details)" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="486" y="1100" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-83" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-220" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="1060" as="sourcePoint" />
-            <mxPoint x="490" y="990" as="targetPoint" />
+            <mxPoint x="510" y="1080" as="sourcePoint" />
+            <mxPoint x="510" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-85" value="(Queue: Processing)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="1">
-          <mxGeometry x="890" y="876" width="63.76" height="60" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-221" value="(Queue: Processing)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="1">
+          <mxGeometry x="910" y="896" width="63.76" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-86" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-222" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="909.14" as="sourcePoint" />
-            <mxPoint x="880" y="910" as="targetPoint" />
+            <mxPoint x="800" y="929.14" as="sourcePoint" />
+            <mxPoint x="900" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-87" value="(Worker)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.worker;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1030" width="30" height="31.5" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-223" value="(Worker)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.worker;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1050" width="30" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-88" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-224" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="930" y="1020" as="sourcePoint" />
-            <mxPoint x="930" y="970" as="targetPoint" />
+            <mxPoint x="950" y="1040" as="sourcePoint" />
+            <mxPoint x="950" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-89" value="(Process: Notification Details)" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
-          <mxGeometry x="902.8" y="710" width="38.16" height="45.49" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-225" value="(Process: Notification Details)" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
+          <mxGeometry x="922.8" y="730" width="38.16" height="45.49" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-90" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-226" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="690" as="sourcePoint" />
-            <mxPoint x="920" y="620" as="targetPoint" />
+            <mxPoint x="940" y="710" as="sourcePoint" />
+            <mxPoint x="940" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-91" value="Data processing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="695.49" width="120" height="60" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-227" value="Data processing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="715.49" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-92" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-228" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1250" y="725.15" as="sourcePoint" />
-            <mxPoint x="1370" y="725.15" as="targetPoint" />
+            <mxPoint x="1270" y="745.15" as="sourcePoint" />
+            <mxPoint x="1390" y="745.15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-93" value="(Cache: Recipient details)" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="1407" y="880" width="50" height="42" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-229" value="(Cache: Recipient details)" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="1427" y="900" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-94" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-230" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1431" y="860" as="sourcePoint" />
-            <mxPoint x="1431" y="790" as="targetPoint" />
+            <mxPoint x="1451" y="880" as="sourcePoint" />
+            <mxPoint x="1451" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-100" value="(Queue: Processing)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="703.99" width="63.76" height="60" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-231" value="(Queue: Processing)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="723.99" width="63.76" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-101" value="(Worker)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.worker;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="857.99" width="30" height="31.5" as="geometry" />
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-232" value="(Worker)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.worker;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="877.99" width="30" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-102" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-233" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1660" y="847.99" as="sourcePoint" />
-            <mxPoint x="1660" y="797.99" as="targetPoint" />
+            <mxPoint x="1680" y="867.99" as="sourcePoint" />
+            <mxPoint x="1680" y="817.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7x9RBcGUPpXrEn_A4fuS-103" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-234" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1490" y="724.9" as="sourcePoint" />
-            <mxPoint x="1590" y="725.76" as="targetPoint" />
+            <mxPoint x="1510" y="744.9" as="sourcePoint" />
+            <mxPoint x="1610" y="745.76" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7x9RBcGUPpXrEn_A4fuS-235" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;Cut-off Automation: Salary &amp;amp; Payroll Details Reminder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1024" y="150" width="1071" height="334" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
