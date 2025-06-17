@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="f91TG5iaeNGNLd9Ed4Ju">
-    <mxGraphModel dx="679" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
             <mxPoint x="236" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i7JLBSxe2D8FaBikPL1v-10" value="(Database)" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+        <mxCell id="i7JLBSxe2D8FaBikPL1v-10" value="(Database - Assistant config)" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
           <mxGeometry x="450" y="60" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i7JLBSxe2D8FaBikPL1v-12" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
@@ -30,6 +30,60 @@
             <mxPoint x="440" y="100" as="sourcePoint" />
             <mxPoint x="320" y="99.76" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i7JLBSxe2D8FaBikPL1v-15" value="(Process)" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
+          <mxGeometry x="261.84" y="220" width="38.16" height="45.49" as="geometry" />
+        </mxCell>
+        <mxCell id="i7JLBSxe2D8FaBikPL1v-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Robot_Controller.svg;" vertex="1" parent="1">
+          <mxGeometry x="500" y="410" width="66.16" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="i7JLBSxe2D8FaBikPL1v-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.http_protocol;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="249.42000000000002" y="410" width="63" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="i7JLBSxe2D8FaBikPL1v-19" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294.8" y="300" as="sourcePoint" />
+            <mxPoint x="294.8" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7JLBSxe2D8FaBikPL1v-20" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354" y="420" as="sourcePoint" />
+            <mxPoint x="474" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7JLBSxe2D8FaBikPL1v-21" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="460.24" as="sourcePoint" />
+            <mxPoint x="354" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7JLBSxe2D8FaBikPL1v-22" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="266.8" y="390" as="sourcePoint" />
+            <mxPoint x="266.64000000000004" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7JLBSxe2D8FaBikPL1v-23" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="120" as="sourcePoint" />
+            <mxPoint x="290" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7JLBSxe2D8FaBikPL1v-24" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="262" y="210" as="sourcePoint" />
+            <mxPoint x="261.84000000000003" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7JLBSxe2D8FaBikPL1v-25" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="221" y="440.24" as="sourcePoint" />
+            <mxPoint x="101" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7JLBSxe2D8FaBikPL1v-26" value="(Database - Logs)" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry y="400" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
